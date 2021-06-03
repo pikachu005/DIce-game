@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: darkcyan;
+}
+h1 {
+  font-size: 3rem;
+  color: rgb(145, 160, 95);
+  font-style: italic;
+  font-weight: bold;
+}
+.hello1 {
+  margin: 0px auto 0px auto;
+}
+.from {
+  background-color: red;
+}
